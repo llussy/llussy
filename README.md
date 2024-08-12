@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=llussy)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/llussy/running_page/blob/master/assets/github.svg"><img width="500px" src="https://github.com/llussy/running_page/blob/master/assets/github_2024.svg"/></a>
