@@ -36,28 +36,24 @@ Here are some ideas to get you started:
         alt="mongodb" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
-        alt="kubernetes" width="54" height="54" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="https://hub.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" 
-        alt="docker" width="54" height="54" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" 
-        alt="argocd" width="54" height="54" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
         alt="kafka" width="64" height="64" style="vertical-align:top; margin:4px;">
+    </a>    
+    <a href="">
+        <a href="https://hub.docker.com/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" 
+            alt="docker" width="54" height="54" style="vertical-align:top; margin:4px">
+        </a>        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
+        alt="kubernetes" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" 
         alt="prometheus" width="54" height="54" style="vertical-align:top; margin:4px">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"
-            alt="ansible" width="54" height="54" style="vertical-align:top; margin:4px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" 
+        alt="argocd" width="54" height="54" style="vertical-align:top; margin:4px">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="54"
