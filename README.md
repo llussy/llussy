@@ -71,3 +71,9 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="#" alt="llussy's github stats"><img src="https://github-readme-stats.vercel.app/api?username=llussy" /></a>
 </p>
+
+<p align="center">
+  <a href="#" alt="llussy running"><img src="https://raw.githubusercontent.com/llussy/running_page/refs/heads/master/2025.svg" /></a>
+</p>
+
+
