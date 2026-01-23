@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="#" alt="llussy running"><img src="https://raw.githubusercontent.com/llussy/running_page/refs/heads/master/2025.svg" /></a>
+  <a href="#" alt="llussy running"><img src="https://raw.githubusercontent.com/llussy/running_page/refs/heads/master/2026.svg" /></a>
 </p>
 
 
